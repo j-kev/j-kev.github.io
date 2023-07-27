@@ -2,7 +2,11 @@ body {
 	background-color: darkgrey;
 }
 
-h1 {
+.greet {
 	color: darkred;
+	background-color: slategrey;
 	text-align: center;
+	font-family: monospace;
+	font-size: 22px;
+		
 }
